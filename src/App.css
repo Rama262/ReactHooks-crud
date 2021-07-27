@@ -8,3 +8,11 @@
     justify-content: center;
     align-items: center;
   }
+
+  .nav-link{
+    display:inline;
+  }
+
+  li {
+    float: right;
+  }
