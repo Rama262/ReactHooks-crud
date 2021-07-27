@@ -7,7 +7,7 @@ const User = () => {
     username: "",
     email: "",
     password:"",
-    phone: "",
+    mobile: "",
   });
   const { id } = useParams();
   useEffect(() => {
@@ -28,7 +28,7 @@ const User = () => {
         <li className="list-group-item">user name: {user.username}</li>
         <li className="list-group-item">email: {user.email}</li>
         <li className="list-group-item">password: {user.password}</li>
-        <li className="list-group-item">phone: {user.phone}</li>
+        <li className="list-group-item">Mobile: {user.mobile}</li>
       </ul>
     </div>
   );
