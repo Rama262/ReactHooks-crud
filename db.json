@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Ramadevi",
+      "email": "rama@gmail.com",
+      "password": "123456",
+      "mobile": "950598331"
+    },
+    {
+      "id": 2,
+      "username": "Rajesh",
+      "email": "rajesh@gmail.com",
+      "password": "1678901",
+      "mobile": "91000789"
+    },
+    {
+      "id": 3,
+      "username": "Suresh",
+      "email": "suri@gmail.com",
+      "password": "5656566",
+      "mobile": "871000789"
+    },
+    {
+      "id": 4,
+      "username": "Sandeep",
+      "email": "sandeep@gmail.com",
+      "password": "8888566",
+      "mobile": "100000100"
+    },
+    {
+      "username": "gytr",
+      "email": "vcbc@hm.com",
+      "password": "vxb",
+      "mobile": "vcb",
+      "id": 6
+    },
+    {
+      "username": "bhnx",
+      "email": "gxnx@gmail.com",
+      "password": "nbvbn",
+      "mobile": "vbngxv",
+      "id": 7
+    }
+  ]
+}
